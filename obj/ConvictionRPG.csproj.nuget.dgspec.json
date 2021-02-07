@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yakup/Desktop/ConvictionRPG/ConvictionRPG.csproj": {}
+  },
+  "projects": {
+    "/home/yakup/Desktop/ConvictionRPG/ConvictionRPG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yakup/Desktop/ConvictionRPG/ConvictionRPG.csproj",
+        "projectName": "ConvictionRPG",
+        "projectPath": "/home/yakup/Desktop/ConvictionRPG/ConvictionRPG.csproj",
+        "packagesPath": "/home/yakup/.nuget/packages/",
+        "outputPath": "/home/yakup/Desktop/ConvictionRPG/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yakup/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/107/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

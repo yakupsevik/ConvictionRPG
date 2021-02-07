@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/yakup/.dotnet/store/|arch|/|tfm|",
+      "/home/yakup/.nuget/packages"
+    ]
+  }
+}

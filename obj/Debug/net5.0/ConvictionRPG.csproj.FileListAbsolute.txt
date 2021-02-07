@@ -1,0 +1,16 @@
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG.deps.json
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG.runtimeconfig.json
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG.runtimeconfig.dev.json
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG.dll
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ref/ConvictionRPG.dll
+/home/yakup/Desktop/ConvictionRPG/bin/Debug/net5.0/ConvictionRPG.pdb
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.csprojAssemblyReference.cache
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.AssemblyInfoInputs.cache
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.AssemblyInfo.cs
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.csproj.CoreCompileInputs.cache
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.dll
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ref/ConvictionRPG.dll
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.pdb
+/home/yakup/Desktop/ConvictionRPG/obj/Debug/net5.0/ConvictionRPG.genruntimeconfig.cache
